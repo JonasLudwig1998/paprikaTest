@@ -1,0 +1,34 @@
+{
+  "name": "PaprikaTest",
+  "author": "Mautic team",
+  "authorUrl": "https://mautic.org",
+  "builder": ["grapesjsbuilder"],
+  "features": [
+    "email"
+  ],
+  "emailPresets": {
+    "fromName": "abcd",
+    "fromAddress": "abcd@abc.de",
+    "replyTo": "abcd@leuchtfeuer.com",
+    "bccAddress": "abcd@ab.de",
+    "useContactOwnerAsMailer": true,
+    "customHeaders": {
+      "header1": "abc",
+      "header2": "abcd"
+    },
+    "segments": [
+      "Segment1",
+      "Segment2"
+    ],
+    "excludeSegments": [
+      "Segment3"
+    ],
+    "category": "abc",
+    "language": "Afrikaans",
+    "unsubscribeFeedbackForm": "Abc",
+    "utmCampaignSource": "1",
+    "utmCampaignMedium": "2",
+    "utmCampaignName": "3",
+    "utmCampaignContent": "4"
+  }
+}
