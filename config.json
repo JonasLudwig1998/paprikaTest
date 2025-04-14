@@ -29,6 +29,8 @@
     "utmCampaignSource": "1",
     "utmCampaignMedium": "2",
     "utmCampaignName": "3",
-    "utmCampaignContent": "4"
+    "utmCampaignContent": "4",
+    "subject": "paprika subject",
+    "internalName": "paprika internal name"
   }
 }
