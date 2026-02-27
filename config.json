@@ -30,6 +30,7 @@
     "utmCampaignMedium": "2",
     "utmCampaignName": "3",
     "utmCampaignContent": "4",
+    "utmCustomParameters": "foo=bar&test=123",
     "subject": "paprika subject",
     "internalName": "paprika internal name"
   }
